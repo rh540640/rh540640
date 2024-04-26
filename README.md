@@ -1,3 +1,6 @@
+GMeet Link: https://meet.google.com/vop-ozok-cxz
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-h-90165621b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@rh540640) 
 
 
